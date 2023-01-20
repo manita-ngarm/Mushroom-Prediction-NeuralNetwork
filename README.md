@@ -1,6 +1,7 @@
 # Mushroom-Prediction-NeuralNetwork
 
 Created the split_data.py to prepare and split the data into train, validate and test dataset 
+
 Saved result all 3 files which are training.txt, val.txt, and testing.txt.
 
 formula.py file, There are Sigmoid function, Derivative of neural activation function, Squared error function, and Derivative of squared error function
